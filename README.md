@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Andrew Samy</h1>
-<h3 align="center">A passionate data scientists from Egypt</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/IIAndrewII?tab=repositories](https://github.com/IIAndrewII?tab=repositories)
 
